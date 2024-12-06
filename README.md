@@ -12,7 +12,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
@@ -26,6 +25,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
+
+As an end-user, create the following tickets
+
+entire mobile/online banking system is down
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
