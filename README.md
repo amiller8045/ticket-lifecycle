@@ -59,6 +59,11 @@ Fill out the information as follows:
 <p>
 </p>
 
+Login to osTicket Help Desk.
+
+![help desk](https://github.com/user-attachments/assets/2c07670c-a5de-4dee-beda-dd73c16560fe)
+
+
 Observe the ticket as John.
 <p>
 Take note of the Department, SLA Plan and Help Topic fields.
@@ -112,6 +117,6 @@ The problem has now been solved. Jane can now "resolve" the ticket.
 ![image](https://github.com/user-attachments/assets/9a95d459-ad97-4507-a4d0-59670fe76cba)
 
 
-Now we have an understanding of Tickets and Ticket Lifecycles
+Congrats! Now we have an understanding of Tickets and Ticket Lifecycles!
 
 
